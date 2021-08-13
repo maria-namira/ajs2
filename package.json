@@ -29,5 +29,8 @@
   },
   "scripts": {
     "build": "webpack --mode production"
-  }
+  },
+  "scripts": {
+   "start": "node src/index.js"
+}
 }
