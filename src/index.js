@@ -1,6 +1,6 @@
 function info() {
   const m = new Map();
-  m.set('name', 'ajs2');
+  m.set('name', 'ajs');
   m.set('version', '1.0.0');
   return m;
 }
